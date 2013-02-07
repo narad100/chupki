@@ -30,7 +30,7 @@ error_reporting(0);
 require_once('Prosperent_Api.php'); 
 
     $prosperentApi = new Prosperent_Api(array( 
-        'api_key' => '2e035ba4f3f5bebd2f1f7bf873da1971', 
+        'api_key' => 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX', 
         'query'   => 'dress',
         //if you want to use pagination, use the following arguments 
         'page'                  => 2, 
